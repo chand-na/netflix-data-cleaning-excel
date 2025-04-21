@@ -51,6 +51,11 @@ You can use this cleaned dataset for:
 - Creating dashboards in Excel, Tableau, or Power BI
 
 ---
+## 📊 Preview
+
+> The full dataset is too large to preview on GitHub. A sample and screenshot are provided below for quick reference.
+
+- 📂 [Download netflix_cleaned_sample.xlsx](netflix_cleaned_sample.xlsx)
 
 ## 📌 Notes
 
